@@ -16,7 +16,7 @@ Latest file: cz-translations\driver-booster\7.0\Czech.lng
 testovat -> Testovat
 
 
-Latest file: cz-translations\malware-fighter\Czech.lng
+Fixed in 9.0.2.40
 
 
 **IOBIT UNINSTALLER 9 RC**
